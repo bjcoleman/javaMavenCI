@@ -25,4 +25,10 @@ public class AppTest
         assertEquals(5, 5);
     }
 
+    @Test
+    public void testAgain()
+    {
+        assertTrue(5 == 5);
+    }
+
 }
